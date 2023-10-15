@@ -1,0 +1,9 @@
+1-git init // create rep
+
+2- git add . 
+
+3- git commit -m "first commmit"
+
+4- git remote
+
+5- git push -u origin master
